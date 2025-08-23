@@ -1,6 +1,6 @@
 @limennlemon
 
-Languages: Java, Python, and JavaScript 
+Languages: Java, Python, C++, and SQL
 
 
 
